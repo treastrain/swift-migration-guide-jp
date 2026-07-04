@@ -13,7 +13,7 @@
 
 ## URL
 
-https://swift-migration-guide.jp/documentation/migrationguide/
+https://swift-migration-guide.tret.jp/documentation/migrationguide/
 
 ## コントリビューションについて
 
