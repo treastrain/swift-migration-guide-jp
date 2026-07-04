@@ -74,17 +74,17 @@ DocCを実行した後、`docc` が出力するリンクを開いて、ブラウ
                 </a>
             </td>
             <td align="center">
-                <a href="https://github.com/giginet">
-                    <img src="https://avatars.githubusercontent.com/u/147051?v=4" width="100;" alt="giginet"/>
-                    <br />
-                    <sub><b>Kohki Miki</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/treastrain">
                     <img src="https://avatars.githubusercontent.com/u/13805382?v=4" width="100;" alt="treastrain"/>
                     <br />
                     <sub><b>treastrain / Tanaka Ryoga</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/giginet">
+                    <img src="https://avatars.githubusercontent.com/u/147051?v=4" width="100;" alt="giginet"/>
+                    <br />
+                    <sub><b>Kohki Miki</b></sub>
                 </a>
             </td>
 		</tr>
