@@ -2,7 +2,7 @@
 
 WWDCのセッションの字幕を参考にしています(セッションによって翻訳が異なるため、必ずしも一致しているとは限りません)。  
 
-追加、修正の必要がある場合は、[issue](https://github.com/stzn/swift-migration-guide-jp/issues)を立ててください。
+追加、修正の必要がある場合は、[issue](https://github.com/treastrain/swift-migration-guide-jp/issues)を立ててください。
 
 |英語|翻訳|備考|
 |---|---|---|
