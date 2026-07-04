@@ -10,7 +10,7 @@ npm install
 
 ### Issueを探す/立てる
 
-1. [Issues](https://github.com/stzn/swift-migration-guide-jp/issues)の中から解決したいIssueを選択(あるいは作成)してください
+1. [Issues](https://github.com/treastrain/swift-migration-guide-jp/issues)の中から解決したいIssueを選択(あるいは作成)してください
 2. 選択したIssueのAssigneesに自身を設定してください 
 
 ※ 誤字脱字などの微細な修正のみであれば不要です。その場合は直接PRを作成してください。
@@ -44,7 +44,7 @@ https://github.com/apple/swift-migration-guide/compare/(翻訳に反映済みの
 例:  
 https://github.com/apple/swift-migration-guide/compare/1a734010d363947797e80b18008e3c4695e119a6...96249774f73d9db641c1b6daaf2894eb9dbfc63b
 
-頻出の単語は[辞書](dictionary.md)にまとめています。翻訳の際に参考にしてください。追加や修正があれば[issue](https://github.com/stzn/swift-migration-guide-jp/issues)を立て、翻訳しているブランチとは別でPRを出してください。  
+頻出の単語は[辞書](dictionary.md)にまとめています。翻訳の際に参考にしてください。追加や修正があれば[issue](https://github.com/treastrain/swift-migration-guide-jp/issues)を立て、翻訳しているブランチとは別でPRを出してください。  
 
 ### ビルド方法
 

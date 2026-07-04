@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stzn/swift-migration-guide-jp.git"
+    "url": "git+https://github.com/treastrain/swift-migration-guide-jp.git"
   },
-  "author": "stzn",
+  "author": "treastrain",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/stzn/swift-migration-guide-jp/issues"
+    "url": "https://github.com/treastrain/swift-migration-guide-jp/issues"
   },
-  "homepage": "https://github.com/stzn/swift-migration-guide-jp#readme",
+  "homepage": "https://github.com/treastrain/swift-migration-guide-jp#readme",
   "devDependencies": {
     "husky": "^9.0.11",
     "lint-staged": "^15.2.5",

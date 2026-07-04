@@ -35,7 +35,7 @@ DocCを実行した後、`docc` が出力するリンクを開いて、ブラウ
 > 代わりに `xcrun docc` を使用してください。
 
 [swift-migration-guide]: https://github.com/apple/swift-migration-guide
-[contributing]: https://github.com/stzn/swift-migration-guide-jp/blob/main/CONTRIBUTING.md
+[contributing]: https://github.com/treastrain/swift-migration-guide-jp/blob/main/CONTRIBUTING.md
 [docc]: https://github.com/apple/swift-docc
 [conduct]: https://www.swift.org/code-of-conduct
 
