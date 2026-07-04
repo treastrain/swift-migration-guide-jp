@@ -81,14 +81,21 @@ DocCを実行した後、`docc` が出力するリンクを開いて、ブラウ
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/treastrain">
+                    <img src="https://avatars.githubusercontent.com/u/13805382?v=4" width="100;" alt="treastrain"/>
+                    <br />
+                    <sub><b>treastrain / Tanaka Ryoga</b></sub>
+                </a>
+            </td>
+		</tr>
+		<tr>
+            <td align="center">
                 <a href="https://github.com/laprasdrum">
                     <img src="https://avatars.githubusercontent.com/u/528196?v=4" width="100;" alt="laprasdrum"/>
                     <br />
                     <sub><b>laprasdrum</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/tikidunpon">
                     <img src="https://avatars.githubusercontent.com/u/1140982?v=4" width="100;" alt="tikidunpon"/>
